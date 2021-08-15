@@ -22,7 +22,6 @@ function App() {
         <Row>
           <Col lg="4">
             <Card hover="true">
-              {/* <Card.Header className="text-muted"><h5>Free</h5></Card.Header> */}
               <Card.Body>
                 <Card.Title>
                 <h5 class="card-title text-center text-uppercase text-muted">Free</h5>
@@ -50,7 +49,6 @@ function App() {
 
           <Col lg="4">
             <Card>
-              {/* <Card.Header className="text-muted"><h5>Free</h5></Card.Header> */}
               <Card.Body>
                 <Card.Title>
                 <h5 class="card-title text-center text-uppercase text-muted">Plus</h5>
@@ -78,7 +76,6 @@ function App() {
 
           <Col lg="4">
             <Card>
-              {/* <Card.Header className="text-muted"><h5>Free</h5></Card.Header> */}
               <Card.Body>
                 <Card.Title>
                 <h5 class="card-title text-center text-uppercase text-muted">Pro</h5>
